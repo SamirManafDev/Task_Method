@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\bin\Debug\netcoreapp3.1\Task_Method_.exe
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\bin\Debug\netcoreapp3.1\Task_Method_.deps.json
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\bin\Debug\netcoreapp3.1\Task_Method_.runtimeconfig.json
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\bin\Debug\netcoreapp3.1\Task_Method_.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\bin\Debug\netcoreapp3.1\Task_Method_.dll
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\bin\Debug\netcoreapp3.1\Task_Method_.pdb
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.dll
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.pdb
+C:\Users\hp\Desktop\Task_Method_\Task_Method_\obj\Debug\netcoreapp3.1\Task_Method_.genruntimeconfig.cache
